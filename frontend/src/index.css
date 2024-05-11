@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form {
+  background-color: transparent;
+  border: 0;
+  border-bottom: 1px #fff solid;
+  display: block;
+  width: 75%;
+  padding: 15px 0;
+  font-size: 18px;
+  color: #fff;
+}
+
+.form:focus {
+    outline: 0;
+    border-bottom-color: lightblue;
+}
+
