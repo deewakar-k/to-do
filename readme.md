@@ -1,4 +1,4 @@
-## ✨ To-Do App ✨
+## To-Do App ✨
 
 **Current Features:**
 
